@@ -1,0 +1,11 @@
+public class Exercise {
+    public String reverse(String str)
+    {
+        if(str.length()==0){
+            return "";
+        }
+        // TODO
+        return str.charAt(str.length()-1)+""+reverse(str.substring(0,str.length()-1)); 
+    }
+
+}
