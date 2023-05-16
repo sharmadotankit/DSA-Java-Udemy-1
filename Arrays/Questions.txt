@@ -3,3 +3,5 @@
 3. Max product of 2 elements.
 4. To check if array has unique element or not.
 5. To check if permutation of not.
+6. Rotate matrix by 90 degree
+7.Sum of daigonal
